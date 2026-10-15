@@ -189,7 +189,14 @@ code/海康/hik_auto_tracking_modular.py
 
 数据内容、目录结构及标注格式请以下载文件为准。
 
-当前仓库根目录中的 `dataset` 为下载说明文件，不是数据集文件夹。下载的数据可先解压至仓库外的独立目录，按实际训练或评估需求配置路径。
+## 演示视频下载
+
+演示视频通过百度网盘提供：
+
+- [点击下载 video](https://pan.baidu.com/s/1kYMEdYfsSbTg4J8QtGDyiA?pwd=dpz7)
+- 提取码：`dpz7`
+
+视频内容及文件格式请以下载文件为准。
 
 ## 模型权重
 
